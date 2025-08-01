@@ -1,0 +1,27 @@
+{
+  "titlePriority": "P1",
+  "titleIncident": "",
+  "titleDescription": "",
+  "incidentDetails": {
+    "Incident Number": "",
+    "Priority": "",
+    "Incident Manager": "",
+    "Timeline Scribe": "",
+    "Bridge Link": "",
+    "NBCU Product/ Business Unit": "",
+    "Impacted Devices": "",
+    "Services/Products Impacted": "",
+    "Workgroups or Individuals engaged": "",
+    "Impact Statement": "",
+    "Resolution": "",
+    "Caused by Change": "No",
+    "Resolved by Change": "",
+    "Root Cause/Trigger": "",
+    "Related to Problem": "",
+    "Workaround": "",
+    "Concern/Recommendation": "",
+    "Problem Number": "",
+    "Problem Summary": ""
+  },
+  "timelineEntries": []
+}
